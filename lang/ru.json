@@ -1,0 +1,12 @@
+{
+  "app_title": "Канбан",
+  "log_in_btn": "Войти",
+  "username_label": "имя пользователя ",
+  "username_invalid": "неверное имя пользователя",
+  "password_label": "пароль",
+  "password_invalid": "неправильный пароль",
+  "tab_bar_on_hold": "В ожидании",
+  "tab_bar_in_progress": "В процессе",
+  "tab_bar_needs_review": "Нужен отзыв",
+  "tab_bar_approved": "Утверждено"
+}

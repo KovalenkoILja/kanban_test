@@ -1,0 +1,12 @@
+{
+  "app_title": "Kanban",
+  "log_in_btn": "Log in",
+  "username_label": "username",
+  "username_invalid": "invalid username",
+  "password_label": "password",
+  "password_invalid": "invalid password",
+  "tab_bar_on_hold": "On hold",
+  "tab_bar_in_progress": "In progress",
+  "tab_bar_needs_review": "Needs review",
+  "tab_bar_approved": "Approved"
+}
